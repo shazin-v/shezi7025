@@ -1,18 +1,18 @@
 [personal]
 name = 'Shazin Abdul Nazar V'
-Location = 'Kerala, India'
+Location ='kannur, Kerala, India'
 email = [ 'shezinv786', 'at', 'gmail.com' ]
 
 [professional]
 currently-employed = false
-title = ['UI/UX designer', ' Web Designer', 'CSS' , 'JAVA']
+title = ['UI/UX designer', ' Web Designer', 'CSS' , 'Python']
 
 
 [bio]
 interests = [
   'Front-end',
   'Database',
-   'CSS',
+   'Python',
 ]
 
 programming-languages = [
