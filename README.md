@@ -1,7 +1,7 @@
 [personal]
 name = 'Shazin Abdul Nazar V'
 Location ='kannur, Kerala, India'
-email = [ 'shezinv786', 'at', 'gmail.com' ]
+email = [ 'shezinv786@gmail.com' ]
 
 [professional]
 currently-employed = false
