@@ -5,7 +5,11 @@ email = [ 'shezinv786@gmail.com' ]
 
 [professional]
 currently-employed = false
-title = ['UI/UX designer', ' Web Designer', 'CSS' , 'Python']
+
+title = [
+        'UI/UX designer', ' Web Designer',
+        'Web developer' , 'Python'
+        ]
 
 
 [bio]
@@ -16,11 +20,18 @@ interests = [
 ]
 
 programming-languages = [
-  'c/cpp',
+  'Javascript',
   'python',
-  'java',
+  'Html'
+  'css',
 ]
 
 database = [
 'MySQL',
+]
+
+
+technologies = [
+'git',
+'Flask'
 ]
