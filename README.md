@@ -1,38 +1,44 @@
-[personal]
-name = 'Shazin Abdul Nazar V'
+[Personal]
 
-Location ='kannur, Kerala, India'
-email = [ 'shezinv786@gmail.com' ]
+Name = 'Shazin Abdul Nazar V'
 
-[professional]
-currently-employed = false
+Location ='Kannur, Kerala, India'
 
-title = [
+Email = [ 'shezinv786@gmail.com' ]
+
+
+
+[Professional]
+
+Currently-employed = False
+
+Title = [
         'UI/UX designer', ' Web Designer',
         'Web developer' , 'Python'
         ]
 
 
-[bio]
-interests = [
+[Bio]
+Interests = [
   'Front-end',
   'Database',
+  'React.js',
    'Python',
 ]
 
-programming-languages = [
+Programming-Languages = [
   'Javascript',
-  'python',
-  'Html'
-  'css',
+  'Python',
+  'HTML'
+  'CSS',
 ]
 
-database = [
+Database = [
 'MySQL',
 ]
 
 
-technologies = [
+Technologies = [
 'git',
 'Flask'
 ]
