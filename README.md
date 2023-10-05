@@ -1,5 +1,6 @@
 [personal]
 name = 'Shazin Abdul Nazar V'
+
 Location ='kannur, Kerala, India'
 email = [ 'shezinv786@gmail.com' ]
 
