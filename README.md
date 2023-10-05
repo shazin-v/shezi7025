@@ -14,7 +14,7 @@ Currently-employed = False
 
 Title = [
         'UI/UX designer', ' Web Designer',
-        'Web developer' , 'Python'
+        'Web developer', 'Python', React.js
         ]
 
 
