@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/abi__ek12" target="blank"><img src="https://img.shields.io/twitter/follow/abi__ek12?logo=twitter&style=for-the-badge" alt="abi__ek12" /></a> </p> -->
 
-- 🌱 I’m currently learning **Reactjs,Nodejs,Expressjs,MongoDB**
+- 🌱 I’m currently learning **MongoDB,Expressjs, Reactjs,Nodejs**
 
 - 📫 How to reach me **vkshazin.786@gmail.com**
 
